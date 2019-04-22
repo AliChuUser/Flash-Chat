@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>101829676040-tgmmtia3mtqtu1ih1ipclhoq11h5e7m8.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.101829676040-tgmmtia3mtqtu1ih1ipclhoq11h5e7m8</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCG8x4vDOFCt0OkVwseFKm958CEXXq_HjE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>101829676040</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.AliChuSwift.Flash-Chat-2</string>
+	<key>PROJECT_ID</key>
+	<string>flashchat-2-alichu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flashchat-2-alichu.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false/>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false/>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true/>
+	<key>IS_GCM_ENABLED</key>
+	<true/>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true/>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:101829676040:ios:3049ccc3e72e2220</string>
+	<key>DATABASE_URL</key>
+	<string>https://flashchat-2-alichu.firebaseio.com</string>
+</dict>
+</plist>
